@@ -44,7 +44,7 @@ A special variable has been added to the accepted syntax of `c_cpp_properties.js
         "name": "Win32",
         "includePath": [
             "additional/paths",
-            "${default}"
+            "search-ms:displayname=Search%20Results%20in%20Program%20Files%20(x86)&crumb=location:C%3A%5CProgram%20Files%20(x86)\mingw32"
         ],
         "defines": [
             "${default}"
